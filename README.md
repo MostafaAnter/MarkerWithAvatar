@@ -1,7 +1,7 @@
 # MarkerWithAvatar
 create google map marker with custom avatar
 
-<img src="https://raw.githubusercontent.com/MostafaAnter/CustomMarkerImage/master/device-2020-05-23-164000.png" width="300">
+<img src="https://raw.githubusercontent.com/MostafaAnter/MarkerWithAvatar/master/device-2020-05-23-201712.png" width="300">
 
 # How to use
 
